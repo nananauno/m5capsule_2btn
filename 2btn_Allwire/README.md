@@ -1,8 +1,12 @@
 # 2btn_ALLwire
 An extension board for M5Capsule, to add two switches and attach wires to all GPIO and power supply pins.
 
+**Pre-manufactured board**
+- Colorful silkscreen version is available on [BOOTH](https://nananauno.booth.pm/items/5257468).
+- Normal version will be soon available.
+
 ## Pinout
-<img src="pinout.png">
+<img src="pinout.png" width=500px>
 
 ## Features
 - Easily add two tact switched to M5Capsule.
