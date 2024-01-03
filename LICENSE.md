@@ -6,5 +6,5 @@ Released under the [Creative Commons Attribution-ShareAlike 4.0 International](h
 
 ## Software
 
-Relesed under the [MIT license](http://opensource.org/licenses/MIT).
+Released under the [MIT license](http://opensource.org/licenses/MIT).
 
